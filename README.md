@@ -7,4 +7,8 @@ O programa contém comentários em várias linhas que visam introduzir o leitor 
 
 Feito por Lucas Albano de Oliveira, o programa pode ser utilizado para criar imagens utilizando 4 ferramentas básicas;
 
+#Comandos na tela de pintura;
+O = Salva a imagem;
+R = Limpa o desenho;
+ESC = Fecha a janela;
 
